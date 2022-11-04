@@ -11,18 +11,20 @@ body {
     border: 0;
     direction: rtl;
     font-family: Vazir, sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .body-class {
     background: url(../img/background.jpg) center center no-repeat;
     background-size: cover;
-    min-height: 100vh;
 }
 
 .container {
-    max-width: 860px;
+    min-width: 860px;
     margin: auto;
-    padding-top: 100px;
 }
 
 .clear-both {
