@@ -1,3 +1,6 @@
+/* FontServer.ir Vazir Font CDN */
+@import url('https://v1.fontapi.ir/css/Vazir');
+
 * {
     box-sizing: border-box;
 }
@@ -7,7 +10,7 @@ body {
     padding: 0;
     border: 0;
     direction: rtl;
-    font-family: MorabbaVF;
+    font-family: Vazir, sans-serif;
 }
 
 .body-class {
