@@ -1,5 +1,5 @@
-# Login-Form
-in this project we decided to create a simple login form for our website via html and css
+# Login Form
+in this project we decided to create a simple login form for our website via HTML & CSS
 
 ## Tutorial
 Our tutorial is on the <b>YouTube</b>:
